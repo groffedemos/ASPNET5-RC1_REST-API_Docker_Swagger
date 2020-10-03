@@ -33,7 +33,7 @@ namespace APIContagem.Controllers
                     _CONTADOR.Local,
                     _CONTADOR.Kernel,
                     _CONTADOR.TargetFramework,
-                    MensagemFixa = "Tech Saturday",
+                    MensagemFixa = "Tech Saturday #12",
                     MensagemVariavel = _configuration["MensagemVariavel"]
                 };
             }
